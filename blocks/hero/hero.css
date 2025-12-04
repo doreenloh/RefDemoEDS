@@ -109,6 +109,7 @@
   background: transparent;
   border: 2px solid var(--main-accent-color);
   color: var(--text-light);
+    font-size: 200px;
 }
 
 .hero-wrapper .button-container.cta-button-secondary a.button::after {
