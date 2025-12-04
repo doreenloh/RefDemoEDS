@@ -106,7 +106,7 @@
 
 /* Secondary CTA */
 .hero-wrapper .button-container.cta-button-secondary a.button {
-  background: transparent;
+  background: red!important;
   border: 2px solid var(--main-accent-color);
   color: var(--text-light);
     font-size: 200px;
